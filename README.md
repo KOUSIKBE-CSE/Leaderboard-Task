@@ -136,8 +136,8 @@ A dynamic leaderboard system that allows users to:
 
 ## ℹ️ Notes
 
-* Backend runs on `http://localhost:5000/api/users`
-* Frontend runs on `http://localhost:3000`
+* Backend runs on `https://leaderboard-backend-vrm2.onrender.com`
+* Frontend runs on `https://leaderboard-task-2025.netlify.app/`
 * Make sure MongoDB service is running locally or provide your cloud URI in `.env`.
 
 ---
